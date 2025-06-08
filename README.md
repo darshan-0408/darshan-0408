@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am proficient in data analytics using Python, SQL, and visualization tools such as Power BI. I am also currently learning machine learning.<br>I have worked on "IPL Data Analytics" project.<br>
+I am proficient in data analytics using Python, SQL, and visualization tools such as Power BI. I am also currently exploring machine learning.<br>I have worked on "IPL Data Analytics" project.<br>
 
 
 ## 🌐 Socials:
