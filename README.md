@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have a strong foundation in data analytics, with hands-on experience in Python, SQL, and data visualization using Matplotlib and Seaborn. I’ve worked on multiple analytics projects where I applied these tools to extract insights and support data-driven decision-making.<br>Currently, I’m deepening my knowledge by exploring machine learning, aiming to build predictive models and enhance my analytical capabilities.<br>I have worked on "IPL Data Analytics" project.
+I have a strong foundation in data analytics, with hands-on experience in Python, SQL, and data visualization using Matplotlib and Seaborn. I’ve worked on multiple analytics projects where I applied these tools to extract insights and support data-driven decision-making.<br>Currently, I’m deepening my knowledge by exploring machine learning, aiming to build predictive models and enhance my analytical capabilities.<br>
 
 
 ## 🌐 Socials:
